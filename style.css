@@ -1,0 +1,21 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #007BFF;
+}
+/* style.css */
+@media (max-width: 768px) {
+    img {
+        max-width: 80%;
+    }
+}
